@@ -3,7 +3,6 @@
     "MONGO_USER": "Vadym",
     "MONGO_PASSWORD": "rXx7e0LrNDCk9BRN",
     "MONGO_DEFAULT_DATABASE": "shop",
-    "PORT": 3000,
     "STRIPE_KEY": "pk_test_X3ECHxSWaMJtpBaiGXjNgmL400Hh9WyB8m"
   }
 }
